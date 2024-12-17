@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+  }
+  footer {
+    display: flex;
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+    justify-content: space-between;
+    color: rgb(74, 73, 73);
+  }
+  a {
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+  }
+  .body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+  }
+  input {
+    height: 25px;
+    border: 1px solid rgb(213, 213, 213);
+    border-radius: 5px;
+    width: 300px;
+  }
+  button {
+    background-color: rgb(201, 201, 201);
+    border: 4px solid rgb(201, 201, 201);
+    border-radius: 7px;
+  }

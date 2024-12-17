@@ -1,0 +1,36 @@
+.box {
+    height: 500px;
+    background-color: #8a0491;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+.box div{
+    margin: 10px;
+    height: 200px;
+}
+.rr {
+    background-color: aliceblue;
+    width: 120px;
+    height: 150px;
+}
+
+.ra {
+    background-color: aliceblue;
+    width: 120px;
+    height: 150px;
+}
+
+.rm {
+    background-color: aliceblue;
+    width: 120px;
+    height: 150px;
+
+}
+
+.re {
+    background-color: aliceblue;
+    width: 120px;
+    height: 150px;
+}

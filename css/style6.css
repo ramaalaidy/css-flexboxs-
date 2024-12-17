@@ -1,0 +1,63 @@
+.main {
+    border: 5px solid orangered;
+    height: 500px;
+    display: flex;
+    align-items: flex-start;
+    color: white;
+  }
+  
+  .one1 {
+    background-color: rgb(104, 242, 104);
+    height: 50px;
+    width: 50px;
+    align-self: baseline;
+    margin-top: 10px;
+  }
+  .two2 {
+    background-color: rgb(220, 96, 58);
+    height: 50px;
+    width: 50px;
+  }
+  .three3 {
+    background-color: rgb(201, 114, 198);
+    height: 50px;
+    width: 50px;
+  }
+  .four4 {
+    background-color: rgb(81, 22, 232);
+    height: auto;
+    width: 50px;
+    align-self: stretch;
+  }
+  .five5 {
+    background-color: rgb(201, 158, 39);
+    height: 50px;
+    width: 50px;
+    align-self: center;
+  }
+  .six6 {
+    background-color: rgb(20, 132, 150);
+    height: 50px;
+    width: 50px;
+  }
+  .seven7 {
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+  }
+  .eight8 {
+    background-color: rgb(76, 76, 76);
+    height: 50px;
+    width: 50px;
+  }
+  .nine9 {
+    background-color: rgb(63, 255, 63);
+    height: 50px;
+    width: 50px;
+  }
+  .ten10 {
+    background-color: rgb(238, 8, 184);
+    height: 50px;
+    width: 50px;
+    align-self: flex-end;
+  }

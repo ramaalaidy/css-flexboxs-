@@ -1,0 +1,16 @@
+body {
+    border: 2px solid rgb(231, 55, 11);
+    width: 50%;
+    height: 500px;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div {
+    background-color: rgb(60, 181, 82);
+    width: fit-content;
+    height: fit-content;
+    font-size:  50px;
+}

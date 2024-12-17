@@ -1,0 +1,12 @@
+body {
+    display: flex;
+  }
+  div {
+    border: 2px solid rgb(9, 225, 45);
+    background-color: rgb(216, 27, 185);
+    width: 200px;
+    height: 300px;
+    color: white;
+    border-radius: 5%;
+    padding: 10px;
+  }

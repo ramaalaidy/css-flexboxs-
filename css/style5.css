@@ -1,0 +1,38 @@
+.main {
+    border: 1px solid rgb(255, 255, 255);
+    width: 490px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .one1 {
+    border: 3px solid rgb(21, 201, 45);
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(198, 101, 188);
+    padding: 15px;
+    border-radius: 5%;
+    font-size: 24px;
+    align-self: stretch;
+  }
+  .two2 {
+    align-self: stretch;
+    border: 3px solid rgb(30, 224, 53);
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(229, 155, 211);
+    padding: 15px;
+    border-radius: 5%;
+    font-size: 24px;
+  }
+  .three3 {
+    border: 3px solid rgb(50, 215, 61);
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(219, 131, 196);
+    padding: 15px;
+    border-radius: 5%;
+    font-size: 24px;
+    align-self: stretch;
+  }

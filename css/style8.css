@@ -1,0 +1,15 @@
+.main {
+height: 50px;
+display: flex;
+text-align: center;
+font-size: 40px;
+color: white;
+}
+.one1 {
+    background-color: rgb(68, 244, 9);
+    flex-basis: 70%;
+    
+}
+.two2 {
+    background-color: rgb(239, 18, 143);
+    flex-basis: 30%;}
